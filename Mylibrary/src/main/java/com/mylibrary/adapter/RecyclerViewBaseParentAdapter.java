@@ -28,7 +28,6 @@ import java.util.List;
 /**
  * Created by Administrator on 2016/7/7.
  */
-
 public abstract class RecyclerViewBaseParentAdapter extends RecyclerView.Adapter<RecyclerViewBaseParentAdapter.BaseViewHolder> {
 
     public OnItemClickListener mOnItemClickListener;
