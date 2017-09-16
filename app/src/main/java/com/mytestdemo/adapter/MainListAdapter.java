@@ -10,7 +10,7 @@ import android.widget.TextView;
 import com.mytestdemo.R;
 
 /**
- * 主页的listView
+ * 主页的listView1
  */
 public class MainListAdapter extends BaseAdapter {
     private Context mContext;
