@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  * yidingliu.com Inc. * Copyright (c) 2016 All Rights Reserved.
+  ~  */
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <solid android:color="@color/colorWhite80"/>
+</shape>

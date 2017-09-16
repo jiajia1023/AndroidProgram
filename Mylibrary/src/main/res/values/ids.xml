@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="auto_focus" type="id">0</item>
+    <item name="decode" type="id">1</item>
+    <item name="decode_failed" type="id">2</item>
+    <item name="decode_succeeded" type="id">3</item>
+    <item name="encode_failed" type="id">4</item>
+    <item name="encode_succeeded" type="id">5</item>
+    <item name="launch_product_query" type="id">6</item>
+    <item name="quit" type="id">7</item>
+    <item name="restart_preview" type="id">8</item>
+    <item name="return_scan_result" type="id">9</item>
+    <item name="search_book_contents_failed" type="id">10</item>
+    <item name="search_book_contents_succeeded" type="id">11</item>
+    <item type="id" name="tag_first"/>
+    <item type="id" name="tag_second"/>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">My Library</string>
+    <string name="scan_text">将取景框对准二维码, 即可自动扫描</string>
+
+    <string name="openMenu">打开菜单</string>
+    <string name="closeMenu">关闭菜单</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+
+    <string name="select_album">选择相册</string>
+    <string name="select_image">选择图片</string>
+    <string name="latest_image">最近照片</string>
+    <string name="photo_album">相册</string>
+
+    <string name="rationale_record">This app needs access to your record so you can start a voice chat.</string>
+    <string name="rationale_camera">我们需要你的相机权限</string>
+    <string name="rationale_fine_location">我们需要定位到当前位置</string>
+    <string name="rationale_location_contacts">This app needs access to your location and contacts to know where and who you are.</string>
+    <string name="rationale_sms">This app needs access to your sms to read all your great messages.</string>
+    <string name="rationale_ask_again">我们需要这个权限才能进行后面的工作</string>
+    <string name="title_settings_dialog">必要权限</string>
+    <string name="setting">设置</string>
+    <string name="settings_dialog_canceled">Settings dialog canceled</string>
+    <string name="returned_from_app_settings_to_activity">Returned from app settings to MainActivity</string>
+    <string name="has_read_sms_permission">Has read sms permission: %b</string>
+
+    <string name="listview_header_hint_normal">下拉刷新</string>
+    <string name="listview_header_hint_release">释放开始刷新</string>
+    <string name="listview_loading">正在加载...</string>
+    <string name="nomore_loading">没有更多啦</string>
+    <string name="refreshing">正在刷新...</string>
+    <string name="refresh_done">刷新完成</string>
+    <string name="listview_header_last_time">上一次刷新:</string>
+    <string name="listview_header_last_time_no">未刷新</string>
+
+    <string name="ucrop_label_edit_photo">裁剪</string>
+    <string name="ucrop_label_original">原始比例</string>
+
+    <string name="cutToAlbum">相册转场动画</string>
+</resources>

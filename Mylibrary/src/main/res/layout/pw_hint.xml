@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shape_rec_black80"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/hintTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="5px"
+        android:paddingRight="5px"
+        android:textColor="@color/colorWhite"
+        android:text="红包还没成熟" />
+</com.zhy.autolayout.AutoLinearLayout>

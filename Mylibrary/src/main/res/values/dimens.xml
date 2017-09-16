@@ -1,0 +1,53 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="actionBarSize">55dp</dimen>
+    <dimen name="itemSize">80dp</dimen>
+    <!--标题大小-->
+    <dimen name="textTitleSizeBold">20sp</dimen>
+    <dimen name="textTitleSize">18sp</dimen>
+    <dimen name="textTitleSizeSmall">16sp</dimen>
+    <!--正文大小-->
+    <dimen name="textBodySizeBold">15sp</dimen>
+    <dimen name="textBodySize">13sp</dimen>
+    <dimen name="textBodySizeSmall">12sp</dimen>
+    <!--标签大小-->
+    <dimen name="textTagSizeBold">11sp</dimen>
+    <dimen name="textTagSize">10sp</dimen>
+    <dimen name="textTagSizeSmall">8sp</dimen>
+
+    <dimen name="margin_all">10dp</dimen>
+    <dimen name="marginLeft">10dp</dimen>
+    <dimen name="marginRight">10dp</dimen>
+    <dimen name="marginSpacing">10dp</dimen>
+    <dimen name="marginSpacingSmall">1dp</dimen>
+
+    <dimen name="dotSize">2dp</dimen>
+    <dimen name="dotSizePadding">2dp</dimen>
+
+    <dimen name="textandiconmargin">10dp</dimen>
+    <dimen name="text_size_small">12dp</dimen>
+
+    <!--常规列表项高度-->
+    <dimen name="itemHeight">100px</dimen>
+    <!--常规列表项文本标题大小-->
+    <dimen name="itemTxtSize">28px</dimen>
+    <!--相对屏幕两边的距离-->
+    <dimen name="borderWidthLittle">20px</dimen>
+    <!--与屏幕两边的距离-->
+    <dimen name="borderWidth">40px</dimen>
+    <!--与屏幕两边的距离-更大-->
+    <dimen name="borderWidthBig">60px</dimen>
+
+    <!--uCrop Activity-->
+    <dimen name="ucrop_size_dot_scale_text_view">8dp</dimen>
+    <dimen name="ucrop_height_horizontal_wheel_progress_line">20dp</dimen>
+    <dimen name="ucrop_width_horizontal_wheel_progress_line">2dp</dimen>
+    <dimen name="ucrop_margin_horizontal_wheel_progress_line">10dp</dimen>
+    <dimen name="ucrop_height_wrapper_controls">64dp</dimen>
+    <dimen name="ucrop_height_wrapper_states">72dp</dimen>
+    <dimen name="ucrop_height_divider_shadow">3dp</dimen>
+    <dimen name="ucrop_text_size_widget_text">13sp</dimen>
+    <dimen name="ucrop_margit_top_widget_text">10sp</dimen>
+    <dimen name="ucrop_size_wrapper_rotate_button">50dp</dimen>
+    <dimen name="ucrop_height_crop_aspect_ratio_text">40dp</dimen>
+</resources>
