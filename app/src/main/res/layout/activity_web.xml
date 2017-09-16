@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mytestdemo.ui.WebActivity">
+
+    <TextView
+        android:id="@+id/web_titleTv"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="title"
+        android:textColor="@android:color/white"
+        android:textSize="16sp" />
+
+    <!--<WebView-->
+    <!--android:id="@+id/web_webView"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:layout_below="@+id/web_titleTv" />-->
+    <RelativeLayout
+        android:id="@+id/web_webLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/web_titleTv" />
+
+    <TextView
+        android:id="@+id/web_loadTv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="正在加载。。。"
+        android:textColor="@color/colorPrimary"
+        android:textSize="14sp" />
+</RelativeLayout>
